@@ -28,7 +28,7 @@ It was created as a part of my journey into understanding the core math and mech
 🧠 Key Concepts Learned
 
 - Gradient Descent intuition and implementation
-- Loss minimization using RMSE
+- Loss minimization using mean sqaured error
 - Data generation and cleaning
 - Plotting predictions vs actual data
 - The importance of learning rate and epochs
